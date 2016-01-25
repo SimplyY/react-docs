@@ -101,6 +101,8 @@ string displayName
 
 许多方法在组件生命周期中某个确定的时间点执行。
 
+![react-component-life-img](http://cdn4.infoqstatic.com/statics_s2_20160120-0059/resource/articles/react-jsx-and-component/zh/resources/0702001.png)
+
 
 ### 挂载： componentWillMount
 

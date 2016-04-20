@@ -101,8 +101,6 @@ string displayName
 
 许多方法在组件生命周期中某个确定的时间点执行。
 
-![react-component-life-img](https://cloud.githubusercontent.com/assets/11390617/14668689/16f8cdf8-0718-11e6-9355-9925bbcac694.png)
-
 
 ### 挂载： componentWillMount
 
@@ -213,3 +211,12 @@ componentWillUnmount()
 在组件从 DOM 中移除的时候立刻被调用。
 
 在该方法中执行任何必要的清理，比如无效的定时器，或者清除在 `componentDidMount` 中创建的 DOM 元素。
+
+## 站外推荐
+### 生命周期
+![react-component-life-img1](https://cloud.githubusercontent.com/assets/11390617/14668689/16f8cdf8-0718-11e6-9355-9925bbcac694.png)
+来源：[React Native 中组件的生命周期](http://www.race604.com/react-native-component-lifecycle)
+
+![react-component-life-img2](http://cdn.infoqstatic.com/statics_s1_20160414-0116/resource/articles/react-jsx-and-component/zh/resources/0702001.png)
+
+来源：[深入浅出React（三）：理解JSX和组件](http://www.infoq.com/cn/articles/react-jsx-and-component)
